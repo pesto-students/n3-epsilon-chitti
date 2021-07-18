@@ -26,6 +26,8 @@ Unlike Social Media, the audience and creators are actually connected directly t
 
 # Implementation
 
+This Project is accompanied by a main website where visitors can explore existing creators and subscribe to them. You can visit the respository for the same at https://github.com/sriramkasyap/chitti-site. 
+
 This is a [Next.js](https://nextjs.org/) project. You will need the following components before you can implement this system
 
 - A MongoDB server, running locally or on cloud
